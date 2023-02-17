@@ -1,5 +1,5 @@
 # portscanner
-portscanner in python to scan multiple host for specific ports.
+portscanner in python to scan multiple hosts for specific ports.
 It supports multiple threading (standard is 10 threads)
 
 
