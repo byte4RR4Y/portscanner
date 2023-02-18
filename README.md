@@ -2,6 +2,14 @@
 portscanner in python to scan multiple hosts for specific ports.
 It supports multiple threading (default is 10 threads)
 
+Files:
+
+portscanner.py = portscanner in python
+
+portscanner.exe = portscanner as Windows executable
+
+portscanner = portscanner as Linux executable
+
 ![portscanner](https://user-images.githubusercontent.com/121404035/219865746-b3d634e7-47f5-4e8f-a490-244c69cb460c.png)
 
 
