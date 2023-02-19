@@ -27,3 +27,6 @@ portscanner.new.py:
 
 ![Screenshot_2023-02-19_14-34-19](https://user-images.githubusercontent.com/121404035/219952199-5bea0213-da70-4d96-9f86-30455eb4eb27.png)
 
+Example:
+
+python portscanner.py 192.168.0.0-192.168.255.255 1-1024 -t 200 -T 2.0 --proxy socks4//127.0.0.1:9050
