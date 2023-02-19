@@ -29,4 +29,4 @@ portscanner.new.py:
 
 Example:
 
-python portscanner.py 192.168.0.0-192.168.255.255 1-1024 -t 200 -T 2.0 --proxy socks4//127.0.0.1:9050
+python portscanner.py 192.168.0.0-192.168.255.255 1-1024 -t 200 -T 2.0 --proxy socks4://127.0.0.1:9050
