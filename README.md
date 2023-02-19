@@ -6,6 +6,8 @@ Files:
 
 portscanner.py = portscanner in python
 
+potrscanner.new.py = portscanner in python SUPPORTS PROXY CONNECTION
+
 portscanner.exe = portscanner as Windows executable
 
 portscanner = portscanner as Linux executable
@@ -18,3 +20,9 @@ Example:
 python portscanner.py 192.168.0.0-192.168.255.255 22,23,80,443 -t 100
 
 python portscanner.py 192.168.0.0-192.168.255.255 1-1024 -t 200 -T 0.5
+
+
+PORTSCANNER.NEW.PY
+
+![Screenshot_2023-02-19_14-34-19](https://user-images.githubusercontent.com/121404035/219952199-5bea0213-da70-4d96-9f86-30455eb4eb27.png)
+
