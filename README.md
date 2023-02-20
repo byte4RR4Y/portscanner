@@ -5,12 +5,14 @@ It supports multiple threading (default is 10 threads)
 Files:
 
 portscanner.py = portscanner in python(the fastest version)
+Updated: Connection timeout error solved
 
 potrscanner.new.py = portscanner in python SUPPORTS PROXY CONNECTION (http, https, socks4, socks5)but shows filtered ports too.
 
 portscanner.exe = portscanner as Windows executable(not up to date)
 
 portscanner = portscanner as Linux executable
+Updated: Connection timeout error solved
 
 ![portscanner](https://user-images.githubusercontent.com/121404035/219865746-b3d634e7-47f5-4e8f-a490-244c69cb460c.png)
 
