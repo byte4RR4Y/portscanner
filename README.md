@@ -4,7 +4,7 @@ It supports multiple threading (default is 10 threads)
 
 Files:
 
-portscanner.py = portscanner in python
+portscanner.py = portscanner in python(the fastest version)
 
 potrscanner.new.py = portscanner in python SUPPORTS PROXY CONNECTION (http, https, socks4, socks5)but shows filtered ports too.
 
