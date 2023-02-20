@@ -8,7 +8,7 @@ portscanner.py = portscanner in python
 
 potrscanner.new.py = portscanner in python SUPPORTS PROXY CONNECTION (http, https, socks4, socks5)but shows filtered ports too.
 
-portscanner.exe = portscanner as Windows executable
+portscanner.exe = portscanner as Windows executable(not up to date)
 
 portscanner = portscanner as Linux executable
 
