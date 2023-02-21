@@ -10,7 +10,8 @@ Files:
 portscanner.py =  portscanner in python(the fastest version)
                   Updated: Connection timeout error solved, added socks5 proxy connection
 
-portscanner.exe = portscanner as Windows executable(not up to date)
+portscanner.exe = portscanner as Windows executable
+                  Updated: Connection timeout error solved, added socks5 proxy connection
 
 portscanner =     portscanner as Linux executable
                   Updated: Connection timeout error solved, added socks5 proxy connection
