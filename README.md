@@ -3,6 +3,8 @@ portscanner in python to scan multiple hosts for specific ports.
 
 It supports multiple threading (default is 10 threads) and socks5 proxy connection
 
+watch my video: https://youtu.be/fGjIfuet0ZA
+
 Files:
 
 --------------------------------------------------------------------------------
